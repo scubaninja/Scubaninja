@@ -1,7 +1,7 @@
 ### Hi, I'm April 👋
 
 
-I'm a Senior Cloud Developer Advocate ☁🥑 and DevOps Practice Lead at [Microsoft](https://developer.microsoft.com/en-us/advocates/) specializing in DevOps and Microsoft Azure.
+I'm a Senior Enterprise Advocate ☁🥑 and DevOps Practice Lead at GitHub specializing in DevOps, IaC, and Microsoft Azure.
 
 Prior to joining Advocacy, I worked in Microsoft's Commercial Software Engineering team (build with/code with) working with large customers, getting them into Azure. I have been working at Microsoft for almost 4 years and have been working in tech for 20+ years. I started my careeer working in Ops and moved into the Dev space, providing a huge amount of experience to leverage my background in DevOps Principles. 
 
