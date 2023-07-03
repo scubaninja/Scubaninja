@@ -17,4 +17,3 @@ Follow the DevOps Lab on [Twitter](https://twitter.com/TheDevOpsLab)
 - 💬 My Blog - https://azapril.dev
 - 🕊 Twitter - https://twitter.com/TheAprilEdwards
 
-![](https://github-readme-stats.vercel.app/api?username=scubaninja&show_icons=true&theme=react)
