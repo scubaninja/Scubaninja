@@ -1,7 +1,7 @@
 ### Hi, I'm April 👋
 
 
-I'm a Senior Enterprise Advocate ☁🥑 and DevOps Practice Lead at GitHub specializing in DevOps, IaC, and Microsoft Azure.
+I'm a Senior Developer Advocate ☁🥑 and DevOps Practice Lead at GitHub specializing in DevOps, IaC, and Microsoft Azure.
 
 I am also a [Hashicorp Ambassador](https://www.hashicorp.com/) spending a lot of my time working with IaC. I like to spend my time making Azure and its features more consumable for us humans. I like working with PowerShell, Golang and sometimes a bit of TypeScript and C#. 
 
