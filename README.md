@@ -14,6 +14,6 @@ Follow the DevOps Lab on [Twitter](https://twitter.com/TheDevOpsLab)
 - ❤ Go, PowerShell, IaC, Azure ☁️
 - ❤ also 🍺 💻 ⛷️ 🤿 🎮 🏊‍♀️ 🚲 🏃‍ 
 - ⚡ Fun fact: My GitHub handle originated from a nickname that my mom gave me at 9  years old
-- 💬 My Blog - https://azapril.dev
+- 💬 My Blog - https://aprilyoho.dev
 - 🕊 Twitter - https://twitter.com/TheAprilYoho
 
